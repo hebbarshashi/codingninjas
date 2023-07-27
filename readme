@@ -1,0 +1,6 @@
+This is Stopwatch project made by Shashidhar Hebbar for Coding Ninjas Skill test,
+
+I have created a stopwatch using just Javascript,html and css
+
+In the script i have created strattimer() function which run when i click on start button, which start the timer, interval
+variable is used to hold the timer values.startInterval and cleaInterval functions are also used in the code.
